@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PNG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PNG/3d-icon-social-media-app.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PNG/flat-design-farmers-market-logo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
